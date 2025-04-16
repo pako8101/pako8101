@@ -1,5 +1,5 @@
 About Me 👋
-Hi there! I'm a Junior Java Programmer and a freelancer passionate about building efficient and scalable software solutions. I also have strong skills in JavaScript, HTML & CSS, React, and MySQL, which I leverage to create dynamic web applications and user-friendly designs.
+Hi there! I'm a  Java Programmer and a freelancer passionate about building efficient and scalable software solutions. I also have strong skills in JavaScript, HTML & CSS, React, and MySQL, which I leverage to create dynamic web applications and user-friendly designs.
 
 What I Do 💻
 Java Development: Building robust backend systems and applications.
